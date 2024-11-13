@@ -49,7 +49,7 @@ while ($row = mysqli_fetch_array($result)) {
         echo "<tr><td>" . "#" . $row["id"] . "</td><td>" . $row["Name"] . "</td><td>Rs " . $row["Price"] . "</td><td><a href='cart-remove.php?id={$row['id']}' class='remove_item_link'> Remove</a></td></tr>";
     }
     $id = rtrim($id, ", ");
-    echo "<tr><td></td><td>Total</td><td>Rs " . $sum . "</td><td><a href='payment.php' class='btn btn-primary'>Confirm Order</a></td></tr>";
+    echo "<tr><td></td><td>Total</td><td>Rs " . $sum . "</td><td><a href='address.php' class='btn btn-primary'>Confirm Order</a></td></tr>";
     ?>
                             </tbody>
                             <?php
