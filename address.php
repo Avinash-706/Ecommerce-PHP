@@ -63,8 +63,8 @@
 
                 <select class="contact-form-txt" id="pincode" required style="padding: 10px;">
                     <option value="" selected style="color: grey;">Select Pincode</option>
-                    <option value="110001" style="color: black;">110001</option>
-                    <option value="110002" style="color: black;">110002</option>
+                    <option value="110001" style="color: black;">7133364</option>
+                    <option value="110002" style="color: black;">713386</option>
                 </select>
 
 
