@@ -2,7 +2,7 @@
 =======
 # Ecommerce-Website [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 The *Shree Bhandar* is a ecommerce website.Developed using php in backend and mysql database and used html and bootstrap in frontend.
-Also used [formspree](https://formspree.io) in contact form.
+Also used [EmailJS](https://www.emailjs.com/) in contact form.
 
 ## Technologies
 - [PHP](https://www.php.net/docs.php)
